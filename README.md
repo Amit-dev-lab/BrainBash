@@ -1,4 +1,4 @@
-
+## BrainBash - Interactive Quiz Game
 Welcome to BrainBash, an engaging and interactive quiz game designed to test your knowledge on various topics. This project is built using HTML, CSS, and JavaScript and provides a smooth and user-friendly experience for quiz enthusiasts.
 
 # Features
