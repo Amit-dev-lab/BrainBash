@@ -17,7 +17,7 @@ body{
 }
 .main{
     min-height: 100vh;
-    background: url('Assets/image.png') no-repeat;
+    background: url('https://www.shutterstock.com/image-vector/vector-realistic-isolated-neon-sign-260nw-1841770471.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     pointer-events: auto;
