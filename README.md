@@ -24,7 +24,7 @@ Welcome to BrainBash, an engaging and interactive quiz game designed to test you
 * sh
 * Copy
 *Edit
-* git clone https://github.com/your name/BrainBash.git
+* git clone https://github.com/yourname/BrainBash.git
 Open the project folder and launch index.html in a web browser.
 #Future Enhancements
 * 🚀 Category Selection – Allow users to choose quiz topics.
